@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    /* background-color: white; */
+    /* width: 100%; */
+    height: 100vh;
+    width: 100%;
+    /* color: #B544AC; */
+    /* color: aliceblue; */
+}
+.button{
+    /* background: linear-gradient(to right,rgb(183,68,1722), #EB429D); */
+    color: #0A7EF5;
+}
+.color{
+    /* background-color: #0A7EF5; */
+    background-color: rgb(52, 131, 250);
+    width: 50%;
+    height: 100vh;
+}
+
+.photo {
+    background-image: url(image/love\ photo.jpeg.jpeg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    /* background-size: cover;   */
+    text-align: center;
+}
+.mine
+{
+    background-image: url(image/Blue\ Morning\ Glories\ Against\ Gray\ Stones.jpeg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+    width:100%;
+    background-size: cover;
+}
